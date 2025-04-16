@@ -1,1 +1,1 @@
-# Student-Data-Management-Appp
+# Student-Data-Management-App
